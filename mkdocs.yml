@@ -3,14 +3,15 @@ repo_url: https://github.com/saebyeok0306/mkdocs-test
 copyright: Copyright &copy; 2025 saebyeok0306. All rights reserved.
 edit_uri: edit/main/docs/
 
-nav:
-  - Home:
-    - Home: index.md
-    - TEST: home/test.md
-  - Getting started:
-    - Installation: getting-started.md
-  - Blog:
-    - blog/index.md
+# nav:
+#   - Home:
+#     - Home: index.md
+#     - TEST: home/test.md
+#   - Getting started:
+#     - Installation: getting-started.md
+#   - Data: test/
+#   - Blog:
+#     - blog/index.md
 
 theme:
   name: material
